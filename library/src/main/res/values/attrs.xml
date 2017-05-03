@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Declare custom theme attributes that allow changing which styles are
+         used for button bars depending on the API level.
+         ?android:attr/buttonBarStyle is new as of API 11 so this is
+         necessary to support previous API levels. -->
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="EmptyLayoutView">
+        <attr name="emptyText" format="string"/>
+        <attr name="showEmptyIcon" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="ErrorLayoutView">
+        <attr name="errorText" format="string"/>
+        <attr name="detailedErroText" format="string"/>
+        <attr name="showErrorIcon" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="LoadingLayoutView">
+        <attr name="loadingText" format="string"/>
+        <attr name="showLoadingIcon" format="boolean"/>
+    </declare-styleable>
+
+</resources>

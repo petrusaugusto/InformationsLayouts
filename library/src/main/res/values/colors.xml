@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Layout Colors -->
+    <color name="item_header_text_color">#FFFFFF</color>
+    <color name="item_header_bg_color">#ED1C24</color>
+    <color name="error_text_color">#AA0000</color>
+    <color name="success_text_color">#00A118</color>
+    <color name="warning_text_color">#938a00</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="black_header_color">#B2000000</color>
+</resources>
