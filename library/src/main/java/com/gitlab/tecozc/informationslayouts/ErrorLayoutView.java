@@ -1,4 +1,4 @@
-package com.github.petrusaugusto.library.views;
+package com.gitlab.tecozc.informationslayouts;
 
 import android.content.Context;
 import android.content.res.TypedArray;

@@ -3,7 +3,7 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.github.petrusaugusto.library.views.EmptyLayoutView
+    <com.gitlab.tecozc.informationslayouts.EmptyLayoutView
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </LinearLayout>
